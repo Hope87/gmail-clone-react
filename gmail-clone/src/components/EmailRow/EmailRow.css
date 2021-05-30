@@ -29,7 +29,7 @@
 }
 
 .emailRow__message > h4 {
-  width: 400px;
+  max-width: 400px;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
